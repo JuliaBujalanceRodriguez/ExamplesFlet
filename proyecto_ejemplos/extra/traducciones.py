@@ -1,3 +1,7 @@
+# Proyecto creado por JuliaBujalanceRodriguez
+# Licencia: CC BY-ND 4.0 (https://creativecommons.org/licenses/by-nd/4.0/)
+# Prohibida la redistribución con modificaciones sin autorización.
+
 # Este es un ejemplo de una traducción básica a través de un diccionario usando controles propios de Flet.
 # Te invito a que lo pruebes, juegues y puedas aprender de este ejemplo.
 

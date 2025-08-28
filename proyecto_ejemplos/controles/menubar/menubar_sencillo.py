@@ -1,4 +1,4 @@
-# Proyecto creado por [JuliaBujalanceRodriguez]
+# Proyecto creado por JuliaBujalanceRodriguez
 # Licencia: CC BY-ND 4.0 (https://creativecommons.org/licenses/by-nd/4.0/)
 # Prohibida la redistribución con modificaciones sin autorización.
 
