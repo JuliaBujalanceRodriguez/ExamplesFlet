@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.pot
+*.pyc
+
+*.env
+*.venv
+*.entorno
+*.entornovirtual
+
+# Entornos virtuales comunes
+env/
+venv/
+.entorno/
+entornovirtual/
+
+# Django stuff:
+*.sqlite3
+db.sqlite3
+
+# VS Code
+.vscode/
+
+# Secrets
+.entornovirtual
+*.secret
+
